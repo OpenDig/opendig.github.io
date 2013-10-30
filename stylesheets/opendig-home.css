@@ -50,7 +50,7 @@ body {
   padding: 60px 20px 60px 20px;
 }
 .container-fluid.container-fluid-3 {
-  background: #000000 url(../images/source.png) no-repeat 0px -250px;
+  background: #000000 url(../images/source.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 .container-fluid-3 .container {
